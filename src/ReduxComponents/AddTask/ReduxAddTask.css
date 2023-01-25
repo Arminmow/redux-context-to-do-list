@@ -1,0 +1,14 @@
+.add-container {
+    margin: 0px 25%;
+    padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.my-input {
+    border-radius: 7px;
+    border: 1px solid darkblue;
+    background-color: #b5c9e8;
+
+}

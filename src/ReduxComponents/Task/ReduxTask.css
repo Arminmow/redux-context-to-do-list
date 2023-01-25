@@ -1,0 +1,10 @@
+
+
+.task-title {
+    display: inline;
+    margin: 0px 30px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
